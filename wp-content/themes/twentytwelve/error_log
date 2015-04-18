@@ -1,0 +1,2 @@
+[13-Feb-2014 18:43:03 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/lifehous/public_html/wp-content/themes/twentytwelve/404.php on line 10
+[17-Feb-2014 11:16:34 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/lifehous/public_html/wp-content/themes/twentytwelve/404.php on line 10

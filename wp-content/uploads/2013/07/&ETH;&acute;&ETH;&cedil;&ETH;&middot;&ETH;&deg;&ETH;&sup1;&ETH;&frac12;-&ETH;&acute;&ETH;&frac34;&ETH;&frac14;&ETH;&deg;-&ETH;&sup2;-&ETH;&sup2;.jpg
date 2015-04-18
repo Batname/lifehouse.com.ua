@@ -1,0 +1,415 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="no-js oldie ie7 ie" lang="uk-UA" prefix="og: http://ogp.me/ns#" > <![endif]-->
+<!--[if IE 8]>    <html class="no-js oldie ie8 ie" lang="uk-UA" prefix="og: http://ogp.me/ns#" > <![endif]-->
+<!--[if IE 9 ]>   <html class="no-js       ie9 ie" lang="uk-UA" prefix="og: http://ogp.me/ns#" > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="uk-UA" prefix="og: http://ogp.me/ns#" > <!--<![endif]-->
+<head>
+        <meta charset="UTF-8" >
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>Page Not Found | Дизайн студия LifeHouseДизайн студия LifeHouse</title>
+
+<link rel="stylesheet" href="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.8" type="text/css" media="all" />
+	
+        <!-- devices setting -->
+        <meta name="viewport"           content="initial-scale=1,user-scalable=no,width=device-width">
+	
+        <!-- Microsoft cleartype rendering -->
+        <meta http-equiv="cleartype"    content="on">
+        <meta name="author"             content="">
+	
+        <!-- feeds, pingback -->
+        <link rel="profile"             href="http://gmpg.org/xfn/11" />
+        <link rel="alternate"           href="http://lifehouse.com.ua/feed/" type="application/rss+xml" title="Дизайн студия LifeHouse RSS2 Feed" />  
+        <link rel="pingback"            href="http://lifehouse.com.ua/xmlrpc.php" />
+                <!-- favicon -->
+        <link rel="shortcut icon"       href="http://lifehouse.com.ua/wp-content/uploads/2012/10/logolifeHouse1.png" >
+                
+        <link rel="stylesheet"          href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' >
+        
+        <!-- stylesheets -->
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/css/base.css?ver=3.2"      type="text/css" media="screen"/>
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/css/main.css?ver=1.1"      type="text/css" media="all" />
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/css/other/superfish.css?ver=1.3" type="text/css" media="screen"/>
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/css/responsive.css?ver=1.0"      type="text/css" media="all" />
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/css/fonts.css?ver=1.3"     type="text/css" />
+        <link rel="stylesheet"          href="http://lifehouse.com.ua/wp-content/themes/lotus/style.css?ver=1.4"       type="text/css" media="all" />
+        
+        
+        <!--[if IE 7]>
+            <link rel="stylesheet"      href="http://lifehouse.com.ua/wp-content/themes/lotus/css/ie7.css?ver=3.0" type="text/css" media="screen"/>
+        <![endif]-->
+        
+        <!-- enables HTML5 elements & feature detects -->
+        <script src="http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/modernizr-2.6.2.min.js"></script>
+    
+<!-- outputs by wp_head -->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.13 - http://yoast.com/wordpress/seo/ -->
+<link rel="publisher" href="https://plus.google.com/u/0/105274843787570335938/posts"/>
+<meta property='og:locale' content='uk_UA'/>
+<meta property='og:type' content='website'/>
+<meta property='og:title' content='Page Not Found - Дизайн студия LifeHouse'/>
+<meta property='og:url' content=''/>
+<meta property='og:site_name' content='Дизайн студия LifeHouse'/>
+<meta property='article:publisher' content='https://www.facebook.com/LifeHouse.com.ua'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Дизайн студия LifeHouse &raquo; Feed" href="http://lifehouse.com.ua/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Дизайн студия LifeHouse &raquo; Comments Feed" href="http://lifehouse.com.ua/comments/feed/" />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='http://lifehouse.com.ua/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='http://lifehouse.com.ua/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='http://lifehouse.com.ua/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://lifehouse.com.ua/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://lifehouse.com.ua/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://lifehouse.com.ua/wp-content/themes/lotus/css/other/prettyPhoto.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jplayer-css'  href='http://lifehouse.com.ua/wp-content/themes/lotus/css/other/jplayer/jplayer.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='userdefined-css'  href='http://lifehouse.com.ua/wp-content/themes/lotus/css/other/custom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider_css-css'  href='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/LayerSlider/css/layerslider.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cuteslider-css'  href='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/CuteSlider/css/cuteslider.css?ver=1.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/jquery-1.8.1.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.easing.min.js?ver=1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lifehouse.com.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lifehouse.com.ua/wp-includes/wlwmanifest.xml" /> 
+<script type="text/javascript" src="http://lifehouse.com.ua/wp-content/plugins/degradable-html5-audio-and-video/incl/audio-player.js"></script>
+<script type="text/javascript">
+	AudioPlayer.setup("http://lifehouse.com.ua/wp-content/plugins/degradable-html5-audio-and-video/incl/player.swf", {
+		/* Format the player by inserting lines here. See http://wpaudioplayer.com/standalone */
+		width: 290,
+		initialvolume: 80
+	});
+</script><script type="text/javascript">var icl_lang = 'uk';var icl_home = 'http://lifehouse.com.ua';</script>
+<script type="text/javascript" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.8 stt:56,1,47;0" />
+<link rel="alternate" hreflang="ru-RU" href="http://lifehouse.com.ua?lang=ru" />
+<link rel="alternate" hreflang="en-US" href="http://lifehouse.com.ua?lang=en" />
+<!-- end wp_head -->
+
+ 
+
+<!-- custom styles for plugins -->
+<link rel="stylesheet"  href="http://lifehouse.com.ua/wp-content/themes/lotus/css/other/overwrite.css?ver=1.5" type="text/css" media="screen"/>
+
+ 
+    
+<!-- Media query for old IE
+[if lt IE 9]><script src="http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/modules/css3-mediaqueries.js"></script><![endif]-->
+
+</head>
+
+
+
+<body class="error404" >
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<div id="inner-body">
+    
+        <div id="top-header">
+        <div class="container fold">
+            
+            <p>Lifehouse +38 (098) 885 85 36
+</p>            
+                        <div class="header-tools">
+                
+                                <div id="searchform">
+                    <form action="http://lifehouse.com.ua/" method="get">
+                        <input type="text" id="s" placeholder="......" name="s" />
+                    </form>
+                </div><!-- end searchform -->
+                                
+                <ul class="socials"><li ><a class="facebook" href="https://www.facebook.com/LifeHouse.com.ua" target="_blank" ></a></li><li ><a class="gplus" href="https://plus.google.com/u/0/105274843787570335938/posts" target="_blank" ></a></li></ul><!-- end socials -->                
+                 <div class="header_flags_lan_selector"><a href="http://lifehouse.com.ua?lang=en" title="English" ><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" height="12" alt="en" width="18" /></a><a href="http://lifehouse.com.ua?lang=ru" title="Russian" ><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" height="12" alt="ru" width="18" /></a><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/uk.png" height="12" alt="uk" width="18" /></div> 
+                
+            </div><!-- end header tools -->
+                        
+        </div><!-- end container -->
+    </div><!-- end top header -->
+        
+    
+    <header id="siteheader" role="banner" class="wrapper">
+        <div class="container">
+	  	
+        <div id="sitetitle">
+            <div id="logo" class="fold" >
+                <div class="logo_inner">
+                    <hgroup>
+                        <h2 class="site-title"><a href="http://lifehouse.com.ua/" title="Дизайн студия LifeHouse" rel="home">Дизайн студия LifeHouse</a></h2>
+                        <h3 class="site-description">LifeHouse Design Laboratory &#8211; это генератор творческих идей и новых решений в сфере дизайна интерьера.</h3>
+                    </hgroup>
+                    <a href="http://lifehouse.com.ua/" title="Дизайн студия LifeHouse" rel="home">
+                                                <img src="http://lifehouse.com.ua/wp-content/uploads/2012/10/logolifeHouse.png" data-image2x="http://lifehouse.com.ua/wp-content/uploads/2012/10/logolifeHouse.png"  alt="Дизайн студия LifeHouse" />
+                                            </a>
+                </div><!-- end logo inner -->
+                
+                <div class="nav-toggle"><a href="#"></a></div>
+            </div><!-- end logo fold -->
+        </div><!-- end #sitetitle -->
+
+
+<!-- start navigation -->
+<nav id="access" class="menu-header-menu-container"><ul id="menu-header-menu" class="sf-menu"><li id="menu-item-2958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2958"><a href="http://lifehouse.com.ua/">Головна</a></li>
+<li id="menu-item-2083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2083"><a href="http://lifehouse.com.ua/about-us/">Про нас</a></li>
+<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080"><a href="http://lifehouse.com.ua/projects/">проекти</a></li>
+<li id="menu-item-2077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2077"><a href="http://lifehouse.com.ua/services/">Послуги</a></li>
+<li id="menu-item-2073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2073"><a href="http://lifehouse.com.ua/blog/">БЛОГ</a></li>
+<li id="menu-item-2075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2075"><a href="http://lifehouse.com.ua/contact/">Контакти</a></li>
+</ul></nav><!-- end navigation -->
+
+			
+        </div><!-- end of container -->
+    </header><!-- end header -->
+
+ 
+ 
+ 
+
+    
+        
+
+      
+    
+    
+                    
+    <div id="main" class="no-sidebar" >
+        <div class="wrapper fold clearfix">
+            
+            <div class="sep space"> </div>
+            
+            <section id="primary" >
+                <div class="content" role="main"  >
+                    
+                                                        
+                    <article class="post error404 not-found" >
+                        
+                        <div class="entry-main">
+                            
+                            <div class="entry-header">
+                                <h1>404</h1>
+                                <h2 class="entry-title">OOPS! Page Not Found ...</h2>
+                            </div>
+                            
+                            <p class="message404" >It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+
+                            	<form method="get" id="searchform" class="searchform" action="http://lifehouse.com.ua/">
+		<input type="text" class="field" name="s" id="s" placeholder="Search Here" value="" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+                            
+                        </div>
+
+                   </article>
+                    
+                </div><!-- end content -->
+            </section><!-- end primary -->
+            
+
+            
+            
+        </div>
+    </div><!-- end main -->
+    
+
+    
+    <div class="container fold subfooter-bar"> </div>
+        
+    <aside class="wrapper subfooter">
+        
+        <div class="container fold">
+            
+            <div class="grid_wrapper">
+                
+                <section class="widget-area one_fourth">       
+                    <section id="recent_portfolios-4" class="widget-container widget_recent_portfolios"><h3 class="widget-title">Незабаром відкриття галереї проектів</h3><div class="widget-inner"></div></section>                </section>
+                <section class="widget-area one_fourth">       
+                    <section id="recent_blog-10" class="widget-container widget_recent_blog"><div class="widget-inner">    
+                    
+                    
+                    <article class="mini ">
+                       <figure>
+                                                        <div class="entry-format">
+                                <a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-4/" class="post-format format-video"> </a>
+                            </div>
+                                                        <figcaption>
+                                <div class="entry-header">
+                                    <h4 class="entry-title"><a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-4/">Лучшие дома для отдыха (4 серия)</a></h4>
+                                </div>
+                                
+                                <div class="entry-content">
+                                                                    </div>
+                            </figcaption>
+                       </figure>
+                   </article> 
+                                                 
+                   
+    
+                    
+                    
+                    <article class="mini ">
+                       <figure>
+                                                        <div class="entry-format">
+                                <a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-3/" class="post-format format-video"> </a>
+                            </div>
+                                                        <figcaption>
+                                <div class="entry-header">
+                                    <h4 class="entry-title"><a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-3/">Лучшие дома для отдыха (3 серия)</a></h4>
+                                </div>
+                                
+                                <div class="entry-content">
+                                                                    </div>
+                            </figcaption>
+                       </figure>
+                   </article> 
+                                                 
+                   
+    
+                    
+                    
+                    <article class="mini ">
+                       <figure>
+                                                        <div class="entry-format">
+                                <a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-2/" class="post-format format-video"> </a>
+                            </div>
+                                                        <figcaption>
+                                <div class="entry-header">
+                                    <h4 class="entry-title"><a href="http://lifehouse.com.ua/%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b4%d0%be%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b4%d1%8b%d1%85%d0%b0-2/">Лучшие дома для отдыха (2 серия)</a></h4>
+                                </div>
+                                
+                                <div class="entry-content">
+                                                                    </div>
+                            </figcaption>
+                       </figure>
+                   </article> 
+                                                 
+                   
+</div></section>                </section>
+                <section class="widget-area one_fourth">       
+                    <section id="text-2" class="widget-container widget_text">			<div class="textwidget"><p><span style="color: #ffffff;">LifeHouse Design Laboratory  - це генератор творчих ідей та нових рішень у сфері дизайну.</span><br />
+<span style="color: #ffffff;"><br />
+Предметом досліджень нашої лабораторії є не хімічні елементи, а сполучення оздоблювальних матеріалів, архітектурних форм, предметів декорування, рішень стилю та кольору.</span></p>
+</div>
+		</section>                </section>
+                <section class="widget-area one_fourth">       
+                    <section id="contact_info-5" class="widget-container widget_contact_info"><ul class="contact-detail" ><li><span><i class="icon-home"></i>пр-т.Героев Сталінграда 44</span><li><span><i class="icon-road"></i>Київ</span><li><span><i class="icon-globe"></i>Україна</span><li><span><i class="icon-phone"></i>+38 (098) 885 85 36</span><li><span><i class="icon-phone"></i>+38 (097) 611 10 64</span><li><span><i class="icon-envelope"></i>info@lifehouse.com.ua</span></ul></section><section id="text-6" class="widget-container widget_text">			<div class="textwidget"><!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://lifehouse.com.ua/"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ru'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+		</section>                </section>
+
+            </div>
+            
+        </div><!-- end of container -->
+    </aside><!-- end footer widget -->
+
+		 
+    <footer id="sitefooter" class="wrapper" role="contentinfo" >
+        <div class="container fold">
+           
+            
+<div class="header_flags_lan_selector"><a href="http://lifehouse.com.ua?lang=en" title="English" ><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" height="12" alt="en" width="18" /></a><a href="http://lifehouse.com.ua?lang=ru" title="Russian" ><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" height="12" alt="ru" width="18" /></a><img class="iclflag" src="http://lifehouse.com.ua/wp-content/plugins/sitepress-multilingual-cms/res/flags/uk.png" height="12" alt="uk" width="18" /></div>            
+            <div id="copyright">
+                                <small>© 2013 Life House Design. Все права защищены</small>
+                            </div>
+            
+                        <!-- end navigation -->
+            
+             
+        </div><!-- end of container -->
+    </footer><!-- end sitefooter -->
+    
+    <div class="scroll2top"></div>
+
+    <script>
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41438614-1', 'lifehouse.com.ua');
+  ga('send', 'pageview');
+
+</script>    </script><!-- user custom js -->
+    
+    <!--[if (lte IE 8)]>
+    <script src="http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/polyfills/selectivizr-min.js"></script>
+    <![endif]-->
+     
+    <!-- outputs by wp_footer -->
+    <script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/plugins.js?ver=1.0'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-includes/js/hoverIntent.min.js?ver=r6'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.prettyPhoto.js?ver=3.2'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.isotope.min.js?ver=1.5.19'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.touchSwipe.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/libs/plugins/jquery.carouFredSel-6.1.0-packed.js?ver=6.1.0'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/js/script.js?ver=1.22'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/LayerSlider/js/jquerytransit.js?ver=0.9.9'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/LayerSlider/js/layerslider.transitions.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/uploads/layerslider.custom.transitions.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSSettings = {"pluginPath":"http:\/\/lifehouse.com.ua\/wp-content\/themes\/lotus\/admin\/include\/modules\/CuteSlider"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/CuteSlider/js/cute.slider.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://lifehouse.com.ua/wp-content/themes/lotus/admin/include/modules/CuteSlider/js/cute.transitions.all.js?ver=1.1.1'></script>
+    <!-- end wp_footer -->
+    
+    <script src="http://lifehouse.com.ua/wp-content/themes/lotus/js/script.js"></script>
+    
+</div><!--! end of #inner-body -->
+</body>
+</html>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41438614-1', 'lifehouse.com.ua');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter21474271 = new Ya.Metrika({id:21474271,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/21474271" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->

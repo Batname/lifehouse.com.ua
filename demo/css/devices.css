@@ -1,0 +1,92 @@
+/* Retina Display */
+@media all and (min-width: 1921px),
+	   all and (min-device-width: 1921px) { 
+	   
+	 body { 	background-image: url(../img/bg@2880.jpg)  }
+		
+	/* === Icons Section === */
+	#social > li > a.rss 		 { background-image: url(../img/icons/rss@1.5x.png) }
+	#social > li > a.fb 		 { background-image: url(../img/icons/facebook@1.5x.png) }
+	#social > li > a.twitter 	 { background-image: url(../img/icons/twitter@1.5x.png) }
+	#social > li > a.gplus 		 { background-image: url(../img/icons/g+@1.5x.png) }
+	#social > li > a.dribbble 	 { background-image: url(../img/icons/dribbble@1.5x.png) }
+	#social > li > a.pinterest 	 { background-image: url(../img/icons/pinterest@1.5x.png) }
+	#social > li > a.stumbleupon { background-image: url(../img/icons/stumbleupon@1.5x.png) }
+}
+
+@media all and (max-width: 1920px),
+	   all and (max-device-width: 1920px) { 
+
+	body { background-image: url(../img/bg@1.jpg) }		  
+}
+
+@media all and (max-width: 1440px),
+	   all and (max-device-width: 2440px) {
+
+	body { background-image: url(../img/bg@1440.jpg) }	   
+}
+
+@media all and (max-width: 1024px),
+	   all and (max-device-width: 1024px) {
+
+	body { background-image: url(../img/bg@1024.jpg) }
+	
+	#countdown,
+	#communication { width: 100% }
+	#countdown { 
+		margin: 0 auto 50px;
+		cursor: default; 
+	}
+	
+	#countdown > div.n { padding: 45px 5.35% }	
+	
+	#communication { 
+		margin: 0 auto;
+		height: 130px
+	}
+}
+
+@media all and (max-width: 768px),
+	   all and (max-device-width: 768px) {
+
+	body { background-image: url(../img/bg@768.jpg) }
+	#countdown > div.n { padding: 45px 5% }   
+}
+
+@media all and (max-width: 480px),
+	   all and (max-device-width: 480px) {
+
+	body {
+		background-image: url(../img/bg@480.jpg);
+		background-color: #fff;
+		background-attachment:inherit;
+	}
+	
+	header { padding: 40px 0 }
+	header a { font-size: 3em }
+	
+	#countdown { margin: 0 auto 10px }
+	
+	#countdown > div.n { 
+		padding: 20px 18px;
+		font-size: 5em;
+	}
+	
+	#countdown > div.n.pl {
+		padding: 20px 42px;
+	}
+	
+	#countdown > div.n > div { height: 100px }
+	
+	#communication { 
+		margin: 20px auto 0;
+		height: auto;
+	}
+	
+	#social > li { opacity: 1 }
+}
+
+@media all and (min-width: 480px) and (max-width: 480px) and (orientation:landscape),
+	   all and (min-device-width: 480px) and (max-device-width: 480px) and (orientation:landscape) {
+	#countdown > div.n { padding: 25px }
+}

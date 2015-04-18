@@ -1,0 +1,26 @@
+
+/* #Grid -------
+------------- */
+.grid_1, .grid_2, .grid_3, .grid_4 , .grid_5 , .grid_6,
+.grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12,
+.one_one   , .one_half  , .one_third , .two_third ,
+.one_fourth , .two_fourth, .three_fourth, .col {
+	float: right;
+}
+
+body{
+	direction:rtl;
+}
+
+.home .row .badget {
+	float:right;
+}
+
+/* $footer ------
+------------- */
+footer #copyright{
+	float:right;
+}
+footer #powered{
+	float:left;
+}

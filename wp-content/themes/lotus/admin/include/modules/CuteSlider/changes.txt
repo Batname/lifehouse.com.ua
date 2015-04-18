@@ -1,0 +1,11 @@
+changes:
+-------------------------------------------------
+- cuteslider.php
+  line: 170
+	comment modernizr & respond (already included)
+	enqueue in footer
+	
+- slider.php
+  line: 295
+	document ready added
+	

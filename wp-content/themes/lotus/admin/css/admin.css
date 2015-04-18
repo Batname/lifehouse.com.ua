@@ -1,0 +1,583 @@
+.label{
+	color: #333333;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+/* fix for custom admin menu icon
+ * ------------------------- */
+#adminmenu .wp-menu-image img {
+    padding: 4px 0 0 0px;
+}
+
+/* title wrapper -----
+ * ------------------------- */
+.section-title{
+	background:url(images/pattern/bg16.png) repeat top left;
+	font-weight:bold;
+	font-size:1.5em;
+	line-height:1.4em;
+	border-bottom-color: #FFFFFF;
+}
+.section-title p{
+	margin:0;
+	padding:8px;
+}
+
+/* meta-box is the table -----
+ * ------------------------- */
+.meta-box{
+	margin:0;
+	padding-top:5px;
+}
+.meta-box tr{
+	vertical-align: top;
+	border-bottom: 1px solid #DFDFDF;
+}
+.meta-box th,
+.meta-box td {
+	vertical-align: top;
+	border-top:1px solid #DFDFDF;
+	border-bottom: 1px solid #DFDFDF;
+}
+.meta-box th {
+	border-right: 1px solid #DFDFDF;
+}
+.meta-box th p,
+.meta-box th p{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 11px;
+	color: #777777;
+}
+.meta-box input[type="text"]{
+	font-size: 12px;
+	padding:4px;
+}
+/* background colorpicker -----
+ * ------------------------- */
+.meta-box .colorSelector{
+	background: url(images/select-25-b.png) no-repeat top left;
+	width:  25px;
+	height: 25px;
+	display:block;
+	margin-top:1px;
+}
+.mini-color-wrapper {
+    width:90px;
+}
+.mini-color-wrapper input[type="text"]{
+    width:60px; float:left; margin-right:5px; padding:2px 4px;
+}
+/* metabox thumbnail -----
+ * ------------------------- */
+
+.meta-box .fatcol {
+	border-right: 1px solid #DFDFDF;
+}
+.meta-box .attached-thumb img{
+	height:80px;
+	width: auto;
+	border: 2px solid #EFEFEF;
+	display: block;
+}
+.meta-box td.media-btn-cell{
+	
+}
+.meta-box td.media-btn-cell input {
+	width:100%;
+}
+
+/*-------------------------
+   $Wrapper & Containers
+---------------------------*/
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.av3_container {
+    width: 100%;
+    max-width: 1000px;
+}
+.block {
+    margin: 0;
+    display: block;
+}
+.row {
+    padding: 35px 20px;
+}
+.av3_container .block {
+    margin-top: 15px;
+}
+.av3_container .placeHolder-highlight {
+    background-color: #FFFFcc;
+    border: 1px dashed #d7a200;
+    display: block;
+    margin-bottom: 10px;
+}
+.last_sep {
+    border-right: 1px solid #e0e0e0;
+}
+
+    .av3_container .section-row{
+        border-top: 1px solid white;
+        border-bottom: 1px solid #DDD;
+        padding: 2em 1.5em;
+        padding-bottom: 1em;
+        background-color: transparent;
+    }
+    .av3_container .section-row:first-child {
+        border-bottom: 1px solid #DDD;
+        border-top-color: transparent;
+    }
+    .av3_container .section-row:last-child {
+        border-bottom-color: transparent;
+    }
+        .av3_container .section-row > label{
+            float:left;
+            font-weight: bold;
+            max-width:150px;
+        }
+        .av3_container .section-row-right{
+            margin-left:160px;
+        }
+        .av3_container .section-row-right p {
+            color: #808080;
+            font-style: italic;
+            font-size: 11px;
+            margin-bottom: 10px;
+            margin-top: 12px;
+            text-align:left;
+        }
+        .av3_container .uploader {
+            position: relative;
+        }
+            .av3_container .uploader div.imgHolder {
+                border: 1px solid #E1E1E1;
+                padding: 4px;
+                position: absolute;
+                top: -12px;
+                left: 220px;
+                overflow: visible;
+                background-color: white;
+            }
+                .av3_container .uploader div.imgHolder strong.close {
+                    background-color: white;
+                    border-radius: 50% 50% 50% 50%;
+                    color: #555;
+                    display: block;
+                    font-size: 8px;
+                    height: 16px;
+                    line-height: 16px;
+                    position: absolute;
+                    right: -7px;
+                    text-align: center;
+                    top: -7px;
+                    width: 16px;
+                    font-family: comic Sans MS;
+                    border: 1px solid #E1E1E1;
+                    -webkit-box-shadow: 0 0 2px rgba(100, 100, 100, 0.15);
+                    -moz-box-shadow: 0 0 2px rgba(100, 100, 100, 0.15);
+                    box-shadow: 0 0 2px rgba(100, 100, 100, 0.15);
+                    cursor: pointer;
+                    /*border-image: initial;*/
+                }
+                .av3_container .uploader div.imgHolder img {
+                    max-height: 75px;
+                    max-width: 100%;
+                    width: auto;
+                }
+        .av3_container .section-legend{
+            border: 1px solid #DDD;
+            border-top-color:#eee; padding:10px;
+            background-color: #eee;
+            font-family:verdana, sans-serif;
+        }
+            .av3_container .section-legend p{
+                font-size:13px;font-weight:bold;color:#333;margin:0 0 0 10px;
+            }
+            .av3_container .section-legend span{
+                font-size:11px;font-weight:normal;font-family:arial;color:#888;margin-left:10px;
+            }
+            
+        .av3_container .av3_option_panel .section-legend {
+            margin:-2em -1.5em -1.05em;
+        }
+            .av3_container .av3_option_panel .section-legend p{
+                margin:0 0 0 10px;
+            }
+            .av3_container .av3_option_panel .section-legend span{
+                font-size:11px;font-weight:normal;font-family:arial;color:#888;margin-left:10px;
+            }
+            
+/*------------------------
+   $tabs
+--------------------------*/
+.av3_container ul.tabs li a {
+	padding: 0px 10px;
+}
+.av3_container .button {
+	text-shadow:none;
+	margin:10px 0;
+}
+/*------------------------
+   $slide buttons
+--------------------------*/
+
+.av3_container .ajax-loading {
+    left: 2px;
+    padding: 0 5px;
+    position: relative;
+    top: 3px;
+    visibility: visible;
+    display: none;
+}
+/*------------------------
+   $slide section
+--------------------------*/	
+.slide-block{
+	min-height:150px;
+	height:auto;
+	width:100%;
+	background-color:#F9F9F9;
+	position:relative;
+	border:1px solid #CCCCCC;
+	border-bottom: 1px solid #dddddd;
+	border-top-width:0; 
+	margin: 10px 0 20px;
+	-webkit-border-radius: 0 3px 2px 0;
+	-moz-border-radius: 0 3px 2px 0;
+	border-radius: 0 3px 2px 0;
+}
+	.slide-block .slideImage{
+		width: 300px;
+		height:100%;
+		left:0;
+		top:0;
+		display:block;
+		background-color: #FCFCFC;
+		position:absolute;
+		border:1px solid #DDDDDD;
+		border-left-width:0;
+		border-top-width:0;
+		-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+	}
+		.slideImage .dragHandle{
+			width: 20px;
+			height:100%;
+			display:block;
+			float:left;
+			background:#252525 url(images/drag-pattern.png) no-repeat center center ;
+			cursor: move;
+		}
+		.slideImage .imgHolder{
+			width: 280px;
+			height:150px;
+			display:block;
+			float:left;
+			background-color: #E9E9E9;
+			-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset;
+			-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset;
+    		box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset;
+		}
+			.slideImage .imgHolder img{
+				width: auto;
+				height:150px;
+				display:block;
+				position:absolute;
+				top:0;
+				left:0;
+				z-index:99;
+			}
+			.slideImage .imgHolder a{
+				text-align:center;
+				display:inline;
+				background-color:#FBFBFB;
+				padding:20px 30px;
+				position:relative;
+				top:62px;
+				left:15px;
+				font-size: 14px;
+				cursor: pointer;
+				z-index: 98;
+				border-radius: 3px;
+				-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+                -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+                box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+			}
+				.slideImage .imgHolder a:hover{
+					background-color:#298CBA;
+					color:#FFFFFF;
+					text-shadow:0 1px #333;
+				}
+			
+	.slide-block .settingBlock{
+		display:block;
+		margin-left:300px;
+	}
+		.settingBlock .tab-bar{
+			display:block;
+			background: #424242;
+			width:100%;
+			padding-top:5px;
+			position:relative;
+		}
+			.settingBlock .tab-bar .cmd-btns{
+				margin:0;
+				float:right;
+				position:absolute;
+				top:0;
+				right:0;
+			}
+				.settingBlock .tab-bar .cmd-btns li{
+					display: block;
+					padding: 0 8px;
+					font: bold 11px/21px arial;
+					text-align: center;
+					border-radius: 3px;
+					color: #666;
+					cursor: pointer;
+					margin: 7px;
+				}
+					.settingBlock .tab-bar .cmd-btns .close:hover{
+						background-color: #d9d9d9;
+						color: #888;
+						-webkit-box-shadow:inset 0px 1px 3px rgba(0, 0, 0, .1),0 1px 1px 1px rgba(255,255,255,.4);
+                        -moz-box-shadow:inset 0px 1px 3px rgba(0, 0, 0, .1),0 1px 1px 1px rgba(255,255,255,.4);
+                        box-shadow:inset 0px 1px 3px rgba(0, 0, 0, .1),0 1px 1px 1px rgba(255,255,255,.4);
+					}
+			.settingBlock .tab-bar .tabs{
+				margin-left:20px;
+				margin-bottom:0;
+			}
+				.settingBlock ul.tabs li {
+					margin:0 2px;
+				}
+					.settingBlock ul.tabs li a {
+						border: 0 none;
+						background: none;
+						color:#444;
+						font-size:12px;
+						
+					}
+					.settingBlock ul.tabs li.active a {
+						background: #f9f9f9;
+						color:#333333;
+						cursor: default;
+						border:1px solid #CCC;
+						border-bottom-color:#F9F9F9;
+						-webkit-box-shadow:0 -1px 1px 1px rgba(255, 255, 255, 0.3);
+                        -moz-box-shadow:0 -1px 1px 1px rgba(255, 255, 255, 0.3);
+                        box-shadow:0 -1px 1px 1px rgba(255, 255, 255, 0.3);
+					}
+		.settingBlock .tabs-content{
+			padding-top: 10px !important;
+			margin:0;
+		}
+			.settingBlock .tabs-content li{
+				display:block;
+			}
+				.av3_container .settingBlock ul.tabs-content > li {
+				    background-color: transparent;
+				}
+				.settingBlock .tabs-content input,
+				.settingBlock .tabs-content textarea,
+				.settingBlock .tabs-content select {
+					width:100%;
+					margin:0;
+					background-color:#F5F5F5;
+				}
+				#slides_info .settingBlock .tabs-content input[type="text"] {
+                    padding: 0.65em 0.7em;
+                }
+                #slides_info .settingBlock .tabs-content textarea {
+                    height:90px;
+                    min-height:50px;
+                }
+				.settingBlock .tabs-content select{
+					padding:5px;
+					height:30px;
+				}
+/*------------------------
+   $slider setting section
+--------------------------*/
+.sliders-setting{
+	width:100%;
+	background-color:#FAFAFA;
+	position:relative;
+	border-bottom: 1px solid #DDDDDD;
+	margin: 10px 0;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+}
+.sliders-setting, .sliders-setting .settingBlock, .settingBlock .tab-bar{
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}			
+	.sliders-setting .settingBlock{
+		margin-left:0;
+		-webkit-box-shadow:0 2px 3px rgba(0, 0, 0, .1);
+		-moz-box-shadow:0 2px 3px rgba(0, 0, 0, .1);
+		box-shadow:0 2px 3px rgba(0, 0, 0, .1);
+	}
+		.sliders-setting .settingBlock label{
+			padding:6px 5px;
+		}
+		.sliders-setting .settingBlock .unit{
+			position:relative;
+			top:4px;
+			left:5px;
+			font-weight:bold;
+		}
+		.sliders-setting .settingBlock input[type="checkbox"]{
+			height:30px;
+			padding:0 !important;
+		}
+		.sliders-setting .settingBlock label{
+			padding-right:10px;
+		}
+		.settingBlock .tab-bar{
+		    background-color:#EEEEEE;
+            background-image: -moz-linear-gradient(center top, #F9F9F9 0%, #ECECEC 100%);
+            background-image: -webkit-gradient(linear, center bottom, center top, from(#ECECEC), to(#F9F9F9));/* Chrome,Safari4+ */
+            background-image: -webkit-linear-gradient(top, #F9F9F9 0%, #ECECEC 100%); /* Chrome10+,Safari5.1+ */
+            background-image: -o-linear-gradient(top, #F9F9F9 0%, #ECECEC 100%); /* Opera11.10+ */
+            background-image: -ms-linear-gradient(top, #F9F9F9 0%, #ECECEC 100%); /* IE10+ */
+            background-image: linear-gradient(top, #F9F9F9 0%, #ECECEC 100%); /* W3C */
+            
+            border-color: #E2E2E2 #CCCCCC #DDDDDD;
+            -webkit-border-radius: 0 3px 0 0;
+            -moz-border-radius: 0 3px 0 0;
+            border-radius: 0 3px 0 0;
+            
+            border-style: solid;
+            border-width: 1px 1px 1px 0;
+            display: block;
+            height: 35px;
+            padding-top: 0;
+            position: relative;
+            width: 100%;
+		}
+			.settingBlock .tab-bar .sliderName{
+				color: #555;
+				font-size:14px;
+				font-weight:normal;
+				position:absolute;
+				top:.65em;
+				left:12px;
+				font-family:Georgia, Arial, sans-serif;
+				text-shadow:0 1px 1px #fff;
+				letter-spacing: 0.02em;
+			}
+				.settingBlock .tab-bar .expand{
+					display:block;
+					padding:0 13px;
+					margin:0;
+					-webkit-border-radius:0 2px 2px 0 ;
+                    -moz-border-radius:0 2px 2px 0 ;
+                    border-radius:0 2px 2px 0 ;
+					font: normal 11px/35px verdana, sans-serif;
+					cursor: pointer;
+					color: #999999;
+					position:absolute;
+					width:10px;
+					text-align:center;
+					top: 0;
+					right: 0;
+					border-left: 1px solid #D9D9D9;
+				}
+				.settingBlock .tab-bar .expand:hover{
+					background-color: #EEEEEE;
+					-webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.03) inset, 0 5px 5px 1px rgba(255, 255, 255, 0.1);
+                    -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.03) inset, 0 5px 5px 1px rgba(255, 255, 255, 0.1);
+                    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.03) inset, 0 5px 5px 1px rgba(255, 255, 255, 0.1);
+				}
+			.settingBlock .tab-bar .tabs{
+				margin-left:20px;
+				margin-bottom:0;
+				padding-top:5px;
+			}
+			.sliders-setting .settingBlock .tab-bar .tabs{
+				float:right;
+				margin-right:40px;
+				padding-top:5px;
+			}
+				.settingBlock ul.tabs li {
+					margin:0 2px;
+				}
+		.sliders-setting .settingBlock .tabs-content{
+			padding: 20px 10px;
+			margin:0;
+			background-color:#F9F9F9;
+		}
+		
+			.settingBlock .tabs-content li{
+				display:block;
+			}
+				.sliders-setting .settingBlock .tabs-content input,
+			    .sliders-setting .settingBlock .tabs-content textarea,
+				.sliders-setting .settingBlock .tabs-content select {
+					text-align: center;
+				}
+				.sliders-setting .settingBlock .tabs-content input,
+				.sliders-setting .settingBlock .tabs-content textarea,
+				.sliders-setting .settingBlock .tabs-content select {
+					width:50px;
+					margin:0;
+					float:left;
+				}
+				.sliders-setting .settingBlock .tabs-content select {
+					width:100px;
+				}
+				.settingBlock .tabs-content .group{
+					padding-bottom:10px;
+					height:27px;
+				}
+				.settingBlock .tabs-content select{
+					padding:5px;
+				}
+
+/*------------------------
+   $save section
+--------------------------*/
+.av3_container#save_box{
+		
+}
+	.av3_container#save_box .misc-pub-section{
+		padding:10px 0;
+	}
+		.av3_container#save_box #update_status,
+		.av3_container#save_box .msg_text{
+			margin:0;
+			padding: 6px 10px;
+		}
+	.av3_container#save_box .notify{
+		background-color:#FFFF00;
+	}
+	.av3_container#save_box .inuse{
+		background-color:#FFFFEE;
+	}
+
+/*===================================================================*/
+
+/*--------------------------------
+   custom style for some elements
+----------------------------------*/
+
+#top_slider_id {
+    width:250px !important;
+}
+
+.av3_container .section-row-right textarea { width:100%; height:140px; }
+
+/*--------------------------------
+   custom style for WPML
+----------------------------------*/
+
+#icl_div select { max-width:75%; }

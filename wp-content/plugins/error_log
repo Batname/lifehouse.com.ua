@@ -1,0 +1,2 @@
+[13-Feb-2014 18:43:03 Europe/Kiev] PHP Fatal error:  Call to undefined function add_action() in /home/lifehous/public_html/wp-content/plugins/hello.php on line 60
+[17-Feb-2014 11:16:32 Europe/Kiev] PHP Fatal error:  Call to undefined function add_action() in /home/lifehous/public_html/wp-content/plugins/hello.php on line 60
