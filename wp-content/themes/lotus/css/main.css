@@ -820,7 +820,7 @@ header#siteheader .sf-menu:after { clear: both; }
 .sf-menu li li { background: #C5C5C5; font-family: Arial, Helvetica, sans-serif; }
 
 #top-header { min-height: 3em; background-color: #ffffff; color: #464646; position: relative; /* margin-bottom: -70px; padding-top:15px; */}
-#top-header .container { position: relative; min-height: 38px; }
+#top-header .container { position: absolute; min-height: 65px; left: 40px;}
 #top-header p { margin: 0 450px 0 0; padding: 0.7em 0; }
 #top-header .header-tools { position: absolute; top: 50%; right: 0; margin-top: -14px; overflow: hidden; }
 #top-header #searchform { float: right; }

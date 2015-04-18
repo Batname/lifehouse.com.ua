@@ -15,6 +15,7 @@
         /* Print the <title> tag based on what is being viewed. */
         global $page, $paged, $post, $axiom_options, $this_page;
         $this_page = $post;
+        $is_home = is_page(array(122, 2498, 2499));
         
         wp_title( '|', true, 'right' );
         
@@ -90,6 +91,10 @@
 <!-- Media query for old IE
 [if lt IE 9]><script src="<?php bloginfo( 'stylesheet_directory' ); ?>/js/libs/modules/css3-mediaqueries.js"></script><![endif]-->
 
+<?php if($is_home){ ?>
+   <link rel="stylesheet"          href="<?php echo get_template_directory_uri(); ?>/css/home.css"      type="text/css" media="all" />
+<?php } ?>
+
 </head>
 
 
@@ -161,7 +166,7 @@
                 <div class="nav-toggle"><a href="#"></a></div>
             </div><!-- end logo fold -->
         </div><!-- end #sitetitle -->
-
+  
 
 <!-- start navigation -->
 <?php /* Our navigation menu.  If one isn't filled out, wp_nav_menu falls back to wp_page_menu.  The menu assiged to the primary position is the one used.  If none is assigned, the menu with the lowest ID is used.  */ ?>
@@ -179,6 +184,9 @@
 			
         </div><!-- end of container -->
     </header><!-- end header -->
+<?php if($is_home){ ?>
+   <div class="container fold subheader-bar"> </div>
+<?php } ?>  
 
 <?php layerslider(10, '122'); ?> 
 <?php layerslider(10, '2499'); ?> 
@@ -193,3 +201,4 @@
     
     <?php axiom_the_content_top_margin(); ?>
     
+
